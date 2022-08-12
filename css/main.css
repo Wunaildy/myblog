@@ -716,11 +716,11 @@ figure.highlight .gutter {
   float: right;
   padding: 2px 4px;
   border-radius: 4px;
-  background-color: #73787a;
-  border-color: #636464;
+  background-color: #00a8eb;
+  border-color: #00eeee;
 }
 .read-more:hover {
-  background-color: #4f5050;
+  background-color: #019cda;
 }
 .read-more:active {
   background: #73787a;
